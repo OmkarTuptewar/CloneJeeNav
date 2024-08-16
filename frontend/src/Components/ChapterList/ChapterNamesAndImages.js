@@ -100,5 +100,134 @@ const maths = [
         ImageAlt: 'Propositional Logic and Truth Tables',
     },
 ];
+const physics = [
+    {
+        TopicName: 'Kinematics',
+        ImageSrc: '../ChapterCards/Constants/kinem.jpg',
+        ImageAlt: 'Motion in One Dimension',
+    },
+    {
+        TopicName: 'Laws of Motion',
+        ImageSrc: '../ChapterCards/Constants/law.jpg',
+        ImageAlt: 'Newton’s Laws of Motion',
+    },
+    {
+        TopicName: 'Work, Energy and Power',
+        ImageSrc: '../ChapterCards/Constants/energy.jpg',
+        ImageAlt: 'Work, Energy, and Power Concepts',
+    },
+    {
+        TopicName: 'Rotational Motion',
+        ImageSrc: '../ChapterCards/Constants/rot.jpg',
+        ImageAlt: 'Rotational Dynamics',
+    },
+    {
+        TopicName: 'Gravitation',
+        ImageSrc: '../ChapterCards/Constants/grav.jpg',
+        ImageAlt: 'Gravitational Forces',
+    },
+    {
+        TopicName: 'Thermodynamics',
+        ImageSrc: '../ChapterCards/Constants/thermo.jpg',
+        ImageAlt: 'Heat and Thermodynamics',
+    },
+    {
+        TopicName: 'Electrostatics',
+        ImageSrc: '../ChapterCards/Constants/electro.jpg',
+        ImageAlt: 'Electric Charges and Fields',
+    },
+    {
+        TopicName: 'Current Electricity',
+        ImageSrc: '../ChapterCards/Constants/current.jpg',
+        ImageAlt: 'Direct Current Circuits',
+    },
+    {
+        TopicName: 'Magnetism',
+        ImageSrc: '../ChapterCards/Constants/magnet.jpg',
+        ImageAlt: 'Magnetic Effects of Current',
+    },
+    {
+        TopicName: 'Electromagnetic Induction',
+        ImageSrc: '../ChapterCards/Constants/emi.jpg',
+        ImageAlt: 'Induced EMF and Current',
+    },
+    {
+        TopicName: 'Optics',
+        ImageSrc: '../ChapterCards/Constants/optics.jpg',
+        ImageAlt: 'Light and Optics',
+    },
+    {
+        TopicName: 'Modern Physics',
+        ImageSrc: '../ChapterCards/Constants/modern.jpg',
+        ImageAlt: 'Quantum Mechanics and Relativity',
+    },
+];
+const chemistry = [
+    {
+        TopicName: 'Atomic Structure',
+        ImageSrc: '../ChapterCards/Constants/atom.jpg',
+        ImageAlt: 'Structure of Atom',
+    },
+    {
+        TopicName: 'Chemical Bonding',
+        ImageSrc: '../ChapterCards/Constants/bond.jpg',
+        ImageAlt: 'Chemical Bonding and Molecular Structure',
+    },
+    {
+        TopicName: 'States of Matter',
+        ImageSrc: '../ChapterCards/Constants/matter.jpg',
+        ImageAlt: 'Solid, Liquid, and Gaseous States',
+    },
+    {
+        TopicName: 'Thermodynamics',
+        ImageSrc: '../ChapterCards/Constants/chemthermo.jpg',
+        ImageAlt: 'Chemical Thermodynamics',
+    },
+    {
+        TopicName: 'Equilibrium',
+        ImageSrc: '../ChapterCards/Constants/equi.jpg',
+        ImageAlt: 'Chemical and Ionic Equilibrium',
+    },
+    {
+        TopicName: 'Redox Reactions',
+        ImageSrc: '../ChapterCards/Constants/redox.jpg',
+        ImageAlt: 'Oxidation-Reduction Reactions',
+    },
+    {
+        TopicName: 'Electrochemistry',
+        ImageSrc: '../ChapterCards/Constants/electrochem.jpg',
+        ImageAlt: 'Electrochemical Cells',
+    },
+    {
+        TopicName: 'Chemical Kinetics',
+        ImageSrc: '../ChapterCards/Constants/kinetics.jpg',
+        ImageAlt: 'Rate of Reactions',
+    },
+    {
+        TopicName: 'Surface Chemistry',
+        ImageSrc: '../ChapterCards/Constants/surface.jpg',
+        ImageAlt: 'Adsorption and Catalysis',
+    },
+    {
+        TopicName: 'Organic Chemistry',
+        ImageSrc: '../ChapterCards/Constants/orgchem.jpg',
+        ImageAlt: 'Basic Concepts in Organic Chemistry',
+    },
+    {
+        TopicName: 'Hydrocarbons',
+        ImageSrc: '../ChapterCards/Constants/hydro.jpg',
+        ImageAlt: 'Alkanes, Alkenes, and Alkynes',
+    },
+    {
+        TopicName: 'Coordination Compounds',
+        ImageSrc: '../ChapterCards/Constants/coordchem.jpg',
+        ImageAlt: 'Coordination Chemistry',
+    },
+    {
+        TopicName: 'Environmental Chemistry',
+        ImageSrc: '../ChapterCards/Constants/env.jpg',
+        ImageAlt: 'Chemistry in the Environment',
+    },
+];
 
-export { maths };
+export { maths,physics, chemistry};

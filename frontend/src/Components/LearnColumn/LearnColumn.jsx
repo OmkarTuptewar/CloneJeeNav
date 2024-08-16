@@ -52,10 +52,10 @@ const LearnColumn = () => {
             <ChapterList subject={'maths'} />
           </TabPanel>
           <TabPanel>
-            <p>Content for Physics!</p>
+          <ChapterList subject={'physics'} />
           </TabPanel>
           <TabPanel>
-            <p>Content for Chemistry!</p>
+          <ChapterList subject={'chemistry'} />
           </TabPanel>
         </TabPanels>
       </Tabs>
